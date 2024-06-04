@@ -17,3 +17,17 @@ Project Motivation
 * Foster Collaboration
 * Encourage Innovation
 * Sustainability and Customization
+
+
+Material Requirement
+
+* Material:Plywood
+* Dimensions: 600mm X 400mm X 3mm
+* Quantity: 3 Nos.
+
+         
+
+Product
+1. Bookmark
+2. Elephant Jig Saw Puzzle
+3. Rocket
