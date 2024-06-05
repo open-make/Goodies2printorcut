@@ -12,11 +12,13 @@ Our vision for the open-source laser cutting technology is to provide an engagin
 
 
 
+
 Project Motivation
-* Promote Accessibility
-* Foster Collaboration
-* Encourage Innovation
-* Sustainability and Customization
+
+- Promote Accessibility
+- Foster Collaboration
+- Encourage Innovation
+- Sustainability and Customization
 
 
 Material Requirement
