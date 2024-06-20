@@ -23,3 +23,5 @@ This may include live demonstrations, hands-on workshops, educational displays, 
 ## License
 
 Hardware products are shared using the CERN Open Hardware Licence Version 2 - Permissive, CERN-OHL-P. This means you are free to use, study, modify, share and distribute hardware designs.
+
+Restriction: Due to time constrains and absence of knowledge, we obtained the Berlin skyline design used in the bookmark from canva.com: it comes with a license to use for non commercial purposes, so I think technically we would not be allowed to show it here, as it might be considered distribution. If you want to use it (even for non-commercial purpose), please contact canva.com directly to get a license for yourself. We plan on using a different design in the future.
