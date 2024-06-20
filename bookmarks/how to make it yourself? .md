@@ -18,9 +18,9 @@ If you want to cut paper:
 
 \- P: 8 / S: 3 --\> the paper is marked and it can be cut with a little force
 
-\- P: 8 / S: 4---\> to engrave
+\- P: 8 / S: 4---\> to have an engrave effect
 
-We don't recommend to engrave on paper.
+
 
 If you want to cut wood of 5 mm:
 
@@ -36,5 +36,3 @@ Turn On your laser cutting and put the USB cable in your computer.
 After download it, you can open UGSplateform and connect your laser cutting. Them, open the Gcode file, reset the zero and push play. 
 
 Thank you for your attention, I hope your project went well.
-
-Made by Lucie LAQUIEZE for Open.make
