@@ -82,8 +82,8 @@ We then tested different speed:
 
 ## Known issues
 
-- For the moment the bookmark is quite fragile due to the "fersehturm" in the skyline, we may add bridges in a future version.
-- The font is not perfect as it tends to loosen some part (in `e` and `o `).
+- For the moment the bookmark is quite fragile due to the "Fersehturm" in the skyline, we may add bridges in a future version.
+- The font is not `stencilized` and loose some part (in `e` and `o `).
 
 ![image4]()
 
